@@ -4,8 +4,9 @@
 This is the project repository for the NLPositionality project - Final Project for CS 678.
 
 ## Team
-- Sumanth Bejugam
+
 - Soumya Thalapaneni
+- Sumanth Bejugam
 - Sai Hruthik Bojja
 
 ## Paper - Referred
